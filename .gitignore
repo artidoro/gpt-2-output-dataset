@@ -1,2 +1,6 @@
 .mypy_cache/
 data/
+log/
+*.out
+__pycache__/
+.vscode/
